@@ -4,7 +4,7 @@ A mobile app that tests your general knowledge by presenting a series of questio
 
 ## Preview
 
-![preview](preview-quizapp.gif?raw=true)
+![preview](preview-quizzapp.gif?raw=true)
 
 ### Features
 
